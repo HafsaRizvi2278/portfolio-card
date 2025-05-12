@@ -2,7 +2,8 @@
 
 A modern, responsive portfolio card built with **HTML** and **CSS**, featuring a sleek **glassmorphism** design to elegantly showcase personal information, skills, and social links. Ideal for portfolios, personal websites, or digital ID cards.
 
-🚀 [Live Demo](https://hafsarizvi2278.github.io/portfolio-card)
+![Portfolio Card Preview](https://github.com/user-attachments/assets/7ced50d1-d199-42c1-b230-6e153dff8057)
+
 
 ---
 
